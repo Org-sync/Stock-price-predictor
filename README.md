@@ -1,2 +1,2 @@
 # Stock-price-predictor
-This is a stock price predictor created by me using Python 
+A Python tool to predict stock trends using Linear Regression and yfinance
